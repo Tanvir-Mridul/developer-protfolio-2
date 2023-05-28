@@ -1,4 +1,5 @@
 body {
+    margin: 0%;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -12,6 +13,11 @@ h1 {
 
 .justify {
     display: flex;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 
 .half-width {
